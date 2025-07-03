@@ -1,0 +1,8 @@
+streamlit
+langchain
+langchain-community
+sentence-transformers
+PyMuPDF
+unstructured
+psycopg2-binary
+pgvector
